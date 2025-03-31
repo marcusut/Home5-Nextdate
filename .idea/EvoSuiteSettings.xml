@@ -9,7 +9,7 @@
     <option name="criterionMethodNoException" value="false" />
     <option name="criterionOutput" value="false" />
     <option name="criterionWeakMutation" value="false" />
-    <option name="javaPath" value="C:\Users\tikerpem\.jdks\corretto-11.0.26-1\lib\src.zip!\java.se" />
+    <option name="javaPath" value="C:\Users\tikerpem\.jdks\corretto-11.0.26-1\bin\java.exe" />
     <option name="junitCheck" value="false" />
     <option name="sandbox" value="false" />
     <option name="seed" value="1" />
